@@ -84,8 +84,8 @@ body {
 	color: #FFF;
 	font-size: 50px;
 	font-style: oblique;
-	/*background-image: url(../images/bg4.jpg);*/
-	background-repeat:no-repeat;
+	/*background-image: url(../images/bg4.jpg);
+	background-repeat:no-repeat;*/
 	height: 130px;
 	/*width: 800px;*/
 	position: static;
