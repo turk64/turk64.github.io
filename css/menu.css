@@ -91,6 +91,8 @@ body {
 	height: 100px;
 	/*width: 800px;*/
 	position: relative;
+	top: 200px;
+	
 	border: thick inset #09f;
 	text-align:center;
 	padding-top:20px;	
