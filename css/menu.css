@@ -90,7 +90,7 @@ body {
 	background-repeat:no-repeat;*/
 	height: 100px;
 	/*width: 800px;*/
-	position: static;
+	position: relative;
 	border: thick inset #09f;
 	text-align:center;
 	padding-top:20px;	
