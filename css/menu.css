@@ -88,12 +88,12 @@ body {
 	font-style: oblique;
 	/*background-image: url(../images/bg4.jpg);
 	background-repeat:no-repeat;*/
-	height: 80px;
+	/*height: 80px;*/
 	/*width: 800px;*/
 	position: static;
 	border: thick inset #09f;
 	text-align:center;
-	padding-top:20px;	
+	padding-top:10px;	
 }   
     
     
