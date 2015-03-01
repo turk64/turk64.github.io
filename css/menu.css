@@ -79,6 +79,42 @@ body {
         box-shadow: 2px 2px 2px rgba(255, 0, 0, 0.6);       
 	font-style:oblique;	
         }
+    
+#h10 {
+	color: #FFF;
+	font-size: 50px;
+	font-style: oblique;
+	/*background-image: url(../images/bg4.jpg);*/
+	background-repeat:no-repeat;
+	height: 130px;
+	/*width: 800px;*/
+	position: static;
+	border: thick inset #09f;
+	text-align:center;
+	padding-top:20px;	
+}   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     </pre>
   </body>
 </html>
